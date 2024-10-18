@@ -1,0 +1,47 @@
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\bin\Debug\net8.0\IRepositories.deps.json
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\bin\Debug\net8.0\IRepositories.dll
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\bin\Debug\net8.0\IRepositories.pdb
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\bin\Debug\net8.0\Models.dll
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\bin\Debug\net8.0\Models.pdb
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\obj\Debug\net8.0\IRepositories.csproj.AssemblyReference.cache
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\obj\Debug\net8.0\IRepositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\obj\Debug\net8.0\IRepositories.AssemblyInfoInputs.cache
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\obj\Debug\net8.0\IRepositories.AssemblyInfo.cs
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\obj\Debug\net8.0\IRepositories.csproj.CoreCompileInputs.cache
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\obj\Debug\net8.0\IRepositories.sourcelink.json
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\obj\Debug\net8.0\IReposit.8DA2A21D.Up2Date
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\obj\Debug\net8.0\IRepositories.dll
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\obj\Debug\net8.0\refint\IRepositories.dll
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\obj\Debug\net8.0\IRepositories.pdb
+D:\full-stack net Core\VS_C#\ElDokkan\IRepositories\obj\Debug\net8.0\ref\IRepositories.dll
+D:\ITI\Advance C#\Project\IRepositories\bin\Debug\net8.0\IRepositories.deps.json
+D:\ITI\Advance C#\Project\IRepositories\bin\Debug\net8.0\IRepositories.dll
+D:\ITI\Advance C#\Project\IRepositories\bin\Debug\net8.0\IRepositories.pdb
+D:\ITI\Advance C#\Project\IRepositories\bin\Debug\net8.0\Models.dll
+D:\ITI\Advance C#\Project\IRepositories\bin\Debug\net8.0\Models.pdb
+D:\ITI\Advance C#\Project\IRepositories\obj\Debug\net8.0\IRepositories.csproj.AssemblyReference.cache
+D:\ITI\Advance C#\Project\IRepositories\obj\Debug\net8.0\IRepositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Advance C#\Project\IRepositories\obj\Debug\net8.0\IRepositories.AssemblyInfoInputs.cache
+D:\ITI\Advance C#\Project\IRepositories\obj\Debug\net8.0\IRepositories.AssemblyInfo.cs
+D:\ITI\Advance C#\Project\IRepositories\obj\Debug\net8.0\IRepositories.csproj.CoreCompileInputs.cache
+D:\ITI\Advance C#\Project\IRepositories\obj\Debug\net8.0\IRepositories.sourcelink.json
+D:\ITI\Advance C#\Project\IRepositories\obj\Debug\net8.0\IReposit.8DA2A21D.Up2Date
+D:\ITI\Advance C#\Project\IRepositories\obj\Debug\net8.0\IRepositories.dll
+D:\ITI\Advance C#\Project\IRepositories\obj\Debug\net8.0\refint\IRepositories.dll
+D:\ITI\Advance C#\Project\IRepositories\obj\Debug\net8.0\IRepositories.pdb
+D:\ITI\Advance C#\Project\IRepositories\obj\Debug\net8.0\ref\IRepositories.dll
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\bin\Debug\net8.0\IRepositories.deps.json
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\bin\Debug\net8.0\IRepositories.dll
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\bin\Debug\net8.0\IRepositories.pdb
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\bin\Debug\net8.0\Models.dll
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\bin\Debug\net8.0\Models.pdb
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\obj\Debug\net8.0\IRepositories.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\obj\Debug\net8.0\IRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\obj\Debug\net8.0\IRepositories.AssemblyInfoInputs.cache
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\obj\Debug\net8.0\IRepositories.AssemblyInfo.cs
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\obj\Debug\net8.0\IRepositories.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\obj\Debug\net8.0\IReposit.8DA2A21D.Up2Date
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\obj\Debug\net8.0\IRepositories.dll
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\obj\Debug\net8.0\refint\IRepositories.dll
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\obj\Debug\net8.0\IRepositories.pdb
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\IRepositories\obj\Debug\net8.0\ref\IRepositories.dll

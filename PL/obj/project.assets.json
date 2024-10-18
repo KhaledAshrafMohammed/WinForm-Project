@@ -1,0 +1,156 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "AutoMapper >= 13.0.1",
+      "Autofac >= 8.0.0",
+      "Guna.Charts.WinForms >= 1.0.9",
+      "Guna.UI2.WinForms >= 2.0.4.6",
+      "Microsoft.EntityFrameWorkCore.Design >= 8.0.8",
+      "Microsoft.EntityFrameWorkCore.SqlServer >= 8.0.8",
+      "Microsoft.EntityFrameWorkCore.Tools >= 8.0.8"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Khaled\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Khaled\\Desktop\\Dokkan-E-Commerce-yasser\\PL\\PL.csproj",
+      "projectName": "PL",
+      "projectPath": "C:\\Users\\Khaled\\Desktop\\Dokkan-E-Commerce-yasser\\PL\\PL.csproj",
+      "packagesPath": "C:\\Users\\Khaled\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Khaled\\Desktop\\Dokkan-E-Commerce-yasser\\PL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Khaled\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://packagesource": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Khaled\\Desktop\\Dokkan-E-Commerce-yasser\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Khaled\\Desktop\\Dokkan-E-Commerce-yasser\\Application\\Application.csproj"
+            },
+            "C:\\Users\\Khaled\\Desktop\\Dokkan-E-Commerce-yasser\\Context\\Context.csproj": {
+              "projectPath": "C:\\Users\\Khaled\\Desktop\\Dokkan-E-Commerce-yasser\\Context\\Context.csproj"
+            },
+            "C:\\Users\\Khaled\\Desktop\\Dokkan-E-Commerce-yasser\\IRepositories\\IRepositories.csproj": {
+              "projectPath": "C:\\Users\\Khaled\\Desktop\\Dokkan-E-Commerce-yasser\\IRepositories\\IRepositories.csproj"
+            },
+            "C:\\Users\\Khaled\\Desktop\\Dokkan-E-Commerce-yasser\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\Khaled\\Desktop\\Dokkan-E-Commerce-yasser\\Models\\Models.csproj"
+            },
+            "C:\\Users\\Khaled\\Desktop\\Dokkan-E-Commerce-yasser\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\Khaled\\Desktop\\Dokkan-E-Commerce-yasser\\Repositories\\Repositories.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "AutoMapper": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          },
+          "Autofac": {
+            "target": "Package",
+            "version": "[8.0.0, )"
+          },
+          "Guna.Charts.WinForms": {
+            "target": "Package",
+            "version": "[1.0.9, )"
+          },
+          "Guna.UI2.WinForms": {
+            "target": "Package",
+            "version": "[2.0.4.6, )"
+          },
+          "Microsoft.EntityFrameWorkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[8.0.8, )"
+          },
+          "Microsoft.EntityFrameWorkCore.SqlServer": {
+            "target": "Package",
+            "version": "[8.0.8, )"
+          },
+          "Microsoft.EntityFrameWorkCore.Tools": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[8.0.8, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Guna.UI2.WinForms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Guna.Charts.WinForms' from remote source 'https://packagesource/FindPackagesById()?id='Guna.Charts.WinForms'&semVerLevel=2.0.0'.",
+      "libraryId": "Guna.Charts.WinForms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Guna.UI2.WinForms' from remote source 'https://packagesource/FindPackagesById()?id='Guna.UI2.WinForms'&semVerLevel=2.0.0'.",
+      "libraryId": "Guna.UI2.WinForms"
+    }
+  ]
+}

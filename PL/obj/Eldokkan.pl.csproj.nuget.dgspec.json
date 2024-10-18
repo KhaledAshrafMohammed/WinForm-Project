@@ -1,0 +1,680 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\full-stack net Core\\VS_C#\\ElDokkan\\PL\\Eldokkan.pl.csproj": {}
+  },
+  "projects": {
+<<<<<<< HEAD
+    "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Application\\Application.csproj": {
+=======
+    "D:\\ITI\\Advance C#\\Project\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Advance C#\\Project\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\ITI\\Advance C#\\Project\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\dream\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Advance C#\\Project\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dream\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ITI\\Advance C#\\Project\\Context\\Context.csproj": {
+                "projectPath": "D:\\ITI\\Advance C#\\Project\\Context\\Context.csproj"
+              },
+              "D:\\ITI\\Advance C#\\Project\\IRepositories\\IRepositories.csproj": {
+                "projectPath": "D:\\ITI\\Advance C#\\Project\\IRepositories\\IRepositories.csproj"
+              },
+              "D:\\ITI\\Advance C#\\Project\\Models\\Models.csproj": {
+                "projectPath": "D:\\ITI\\Advance C#\\Project\\Models\\Models.csproj"
+              },
+              "D:\\ITI\\Advance C#\\Project\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\ITI\\Advance C#\\Project\\Repositories\\Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\Advance C#\\Project\\Context\\Context.csproj": {
+>>>>>>> 989473fcd69059107df8ab80ef97ca6f8c55a7b1
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
+        "outputPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Context\\Context.csproj": {
+                "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Context\\Context.csproj"
+              },
+              "D:\\full-stack net Core\\VS_C#\\ElDokkan\\IRepositories\\IRepositories.csproj": {
+                "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\IRepositories\\IRepositories.csproj"
+              },
+              "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Models\\Models.csproj": {
+                "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Models\\Models.csproj"
+              },
+              "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Repositories\\Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Context\\Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Context\\Context.csproj",
+        "projectName": "Context",
+        "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Context\\Context.csproj",
+        "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
+        "outputPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Models\\Models.csproj": {
+                "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+<<<<<<< HEAD
+    "D:\\full-stack net Core\\VS_C#\\ElDokkan\\IRepositories\\IRepositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\IRepositories\\IRepositories.csproj",
+        "projectName": "IRepositories",
+        "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\IRepositories\\IRepositories.csproj",
+        "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
+        "outputPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\IRepositories\\obj\\",
+=======
+    "D:\\ITI\\Advance C#\\Project\\IRepositories\\IRepositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Advance C#\\Project\\IRepositories\\IRepositories.csproj",
+        "projectName": "IRepositories",
+        "projectPath": "D:\\ITI\\Advance C#\\Project\\IRepositories\\IRepositories.csproj",
+        "packagesPath": "C:\\Users\\dream\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Advance C#\\Project\\IRepositories\\obj\\",
+>>>>>>> 989473fcd69059107df8ab80ef97ca6f8c55a7b1
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+<<<<<<< HEAD
+              "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Models\\Models.csproj": {
+                "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Models\\Models.csproj"
+=======
+              "D:\\ITI\\Advance C#\\Project\\Models\\Models.csproj": {
+                "projectPath": "D:\\ITI\\Advance C#\\Project\\Models\\Models.csproj"
+>>>>>>> 989473fcd69059107df8ab80ef97ca6f8c55a7b1
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
+        "outputPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\full-stack net Core\\VS_C#\\ElDokkan\\PL\\Eldokkan.pl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\PL\\Eldokkan.pl.csproj",
+        "projectName": "Eldokkan.pl",
+        "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\PL\\Eldokkan.pl.csproj",
+        "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
+        "outputPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\PL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+<<<<<<< HEAD
+              "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Application\\Application.csproj": {
+                "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Application\\Application.csproj"
+              },
+              "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Context\\Context.csproj": {
+                "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Context\\Context.csproj"
+              },
+              "D:\\full-stack net Core\\VS_C#\\ElDokkan\\IRepositories\\IRepositories.csproj": {
+                "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\IRepositories\\IRepositories.csproj"
+              },
+              "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Models\\Models.csproj": {
+                "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Models\\Models.csproj"
+              },
+              "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Repositories\\Repositories.csproj"
+=======
+              "D:\\ITI\\Advance C#\\Project\\Application\\Application.csproj": {
+                "projectPath": "D:\\ITI\\Advance C#\\Project\\Application\\Application.csproj"
+              },
+              "D:\\ITI\\Advance C#\\Project\\Context\\Context.csproj": {
+                "projectPath": "D:\\ITI\\Advance C#\\Project\\Context\\Context.csproj"
+              },
+              "D:\\ITI\\Advance C#\\Project\\Models\\Models.csproj": {
+                "projectPath": "D:\\ITI\\Advance C#\\Project\\Models\\Models.csproj"
+>>>>>>> 989473fcd69059107df8ab80ef97ca6f8c55a7b1
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Guna.Charts.WinForms": {
+              "target": "Package",
+              "version": "[1.0.9, )"
+            },
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.4.6, )"
+            },
+            "Microsoft.EntityFrameWorkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameWorkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameWorkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Repositories\\Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
+        "outputPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Context\\Context.csproj": {
+                "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Context\\Context.csproj"
+              },
+              "D:\\full-stack net Core\\VS_C#\\ElDokkan\\IRepositories\\IRepositories.csproj": {
+                "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\IRepositories\\IRepositories.csproj"
+              },
+              "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Models\\Models.csproj": {
+                "projectPath": "D:\\full-stack net Core\\VS_C#\\ElDokkan\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\Advance C#\\Project\\Repositories\\Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Advance C#\\Project\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "D:\\ITI\\Advance C#\\Project\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\dream\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Advance C#\\Project\\Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dream\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ITI\\Advance C#\\Project\\Context\\Context.csproj": {
+                "projectPath": "D:\\ITI\\Advance C#\\Project\\Context\\Context.csproj"
+              },
+              "D:\\ITI\\Advance C#\\Project\\IRepositories\\IRepositories.csproj": {
+                "projectPath": "D:\\ITI\\Advance C#\\Project\\IRepositories\\IRepositories.csproj"
+              },
+              "D:\\ITI\\Advance C#\\Project\\Models\\Models.csproj": {
+                "projectPath": "D:\\ITI\\Advance C#\\Project\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

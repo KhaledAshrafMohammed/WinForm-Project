@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+.vs/
+<<<<<<< HEAD
+=======
+bin
+>>>>>>> Mekky
+=======
+.vs/Eldokkan/
+Context/obj/Debug/net8.0
+Eldokkan.Application/obj/Debug/net8.0/
+Eldokkan.Dto/obj/Debug/net8.0/
+Eldokkan.Infrastructure/obj/Debug/net8.0/
+PL/obj/Debug/
+=======
+.vs/
+>>>>>>> am
+>>>>>>> 989473fcd69059107df8ab80ef97ca6f8c55a7b1

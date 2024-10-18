@@ -1,0 +1,49 @@
+D:\full-stack net Core\VS_C#\ElDokkan\Application\bin\Debug\net8.0\Application.deps.json
+D:\full-stack net Core\VS_C#\ElDokkan\Application\bin\Debug\net8.0\Application.dll
+D:\full-stack net Core\VS_C#\ElDokkan\Application\bin\Debug\net8.0\Application.pdb
+D:\full-stack net Core\VS_C#\ElDokkan\Application\bin\Debug\net8.0\Context.dll
+D:\full-stack net Core\VS_C#\ElDokkan\Application\bin\Debug\net8.0\IRepositories.dll
+D:\full-stack net Core\VS_C#\ElDokkan\Application\bin\Debug\net8.0\Models.dll
+D:\full-stack net Core\VS_C#\ElDokkan\Application\bin\Debug\net8.0\Repositories.dll
+D:\full-stack net Core\VS_C#\ElDokkan\Application\bin\Debug\net8.0\Repositories.pdb
+D:\full-stack net Core\VS_C#\ElDokkan\Application\bin\Debug\net8.0\Models.pdb
+D:\full-stack net Core\VS_C#\ElDokkan\Application\bin\Debug\net8.0\Context.pdb
+D:\full-stack net Core\VS_C#\ElDokkan\Application\bin\Debug\net8.0\IRepositories.pdb
+D:\full-stack net Core\VS_C#\ElDokkan\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\full-stack net Core\VS_C#\ElDokkan\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\full-stack net Core\VS_C#\ElDokkan\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\full-stack net Core\VS_C#\ElDokkan\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\full-stack net Core\VS_C#\ElDokkan\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\full-stack net Core\VS_C#\ElDokkan\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\full-stack net Core\VS_C#\ElDokkan\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\full-stack net Core\VS_C#\ElDokkan\Application\obj\Debug\net8.0\Application.dll
+D:\full-stack net Core\VS_C#\ElDokkan\Application\obj\Debug\net8.0\refint\Application.dll
+D:\full-stack net Core\VS_C#\ElDokkan\Application\obj\Debug\net8.0\Application.pdb
+D:\full-stack net Core\VS_C#\ElDokkan\Application\obj\Debug\net8.0\ref\Application.dll
+D:\full-stack net Core\VS_C#\ElDokkan\Application\bin\Debug\net8.0\Context.dll.config
+D:\ITI\Advance C#\Project\Application\bin\Debug\net8.0\Application.deps.json
+D:\ITI\Advance C#\Project\Application\bin\Debug\net8.0\Application.dll
+D:\ITI\Advance C#\Project\Application\bin\Debug\net8.0\Application.pdb
+D:\ITI\Advance C#\Project\Application\bin\Debug\net8.0\Context.dll
+D:\ITI\Advance C#\Project\Application\bin\Debug\net8.0\IRepositories.dll
+D:\ITI\Advance C#\Project\Application\bin\Debug\net8.0\Models.dll
+D:\ITI\Advance C#\Project\Application\bin\Debug\net8.0\Repositories.dll
+D:\ITI\Advance C#\Project\Application\bin\Debug\net8.0\Repositories.pdb
+D:\ITI\Advance C#\Project\Application\bin\Debug\net8.0\Models.pdb
+D:\ITI\Advance C#\Project\Application\bin\Debug\net8.0\Context.pdb
+D:\ITI\Advance C#\Project\Application\bin\Debug\net8.0\Context.dll.config
+D:\ITI\Advance C#\Project\Application\bin\Debug\net8.0\IRepositories.pdb
+D:\ITI\Advance C#\Project\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\ITI\Advance C#\Project\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Advance C#\Project\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\ITI\Advance C#\Project\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\ITI\Advance C#\Project\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\ITI\Advance C#\Project\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\ITI\Advance C#\Project\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\ITI\Advance C#\Project\Application\obj\Debug\net8.0\Application.dll
+D:\ITI\Advance C#\Project\Application\obj\Debug\net8.0\refint\Application.dll
+D:\ITI\Advance C#\Project\Application\obj\Debug\net8.0\Application.pdb
+D:\ITI\Advance C#\Project\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\Application\obj\Debug\net8.0\Application.dll
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\Khaled\Desktop\Dokkan-E-Commerce-yasser\Application\obj\Debug\net8.0\Application.pdb

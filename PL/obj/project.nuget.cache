@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "9bIy1V01dPA=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Khaled\\Desktop\\Dokkan-E-Commerce-yasser\\PL\\PL.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Guna.UI2.WinForms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Guna.Charts.WinForms' from remote source 'https://packagesource/FindPackagesById()?id='Guna.Charts.WinForms'&semVerLevel=2.0.0'.",
+      "libraryId": "Guna.Charts.WinForms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Guna.UI2.WinForms' from remote source 'https://packagesource/FindPackagesById()?id='Guna.UI2.WinForms'&semVerLevel=2.0.0'.",
+      "libraryId": "Guna.UI2.WinForms"
+    }
+  ]
+}
